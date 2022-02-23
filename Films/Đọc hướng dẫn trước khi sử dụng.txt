@@ -1,0 +1,5 @@
+- Người dùng cần tải các bộ phim và các poster của phim để trang web có thể hiển thị, và hoạt động đầy đủ chức năng.
+- Truy cập link Google Drive sau để tải các bộ phim và các poster của phim (dung lượng khoảng 2GB):
+
+
+link: https://drive.google.com/file/d/1RgnQUi2ZyovLAdXFOeOTAkTjJbxwJu6p/view
